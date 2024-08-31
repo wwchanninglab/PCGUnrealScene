@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# EuropeanHornbeam
+Content/EuropeanHornbeam/*
+
+# STF
+Content/STF/*
